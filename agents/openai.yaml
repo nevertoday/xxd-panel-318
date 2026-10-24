@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 318"
-  short_description: "生活印记：上半保留原照，下半把主体收成温暖的生活小印记"
-  default_prompt: "Use $xxd-panel-318 to transform my photograph following the complete canonical source brief."
+  short_description: "生活印记：把照片里的人、宠物、植物或物件收成一个圆润手绘、清新温暖的生活小标志"
+  default_prompt: "Use $xxd-panel-318 to turn my photo into Lived-In Mark artwork."

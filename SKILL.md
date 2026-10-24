@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-318
-description: "Create XXD Panel 318 raster artwork: a faithful photograph paired with one warm lifestyle emblem, a saved domestic memory in soft gouache and naive line. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-318 or asks for this 生活印记 style."
+description: "XXD Panel 318｜Lived-In Mark: keeps the photo and distils the everyday mood of its subject into one small cosy picture-book identity mark — a clear, rounded, simple outline that may combine a person's pose, a plant, a pet's features, a building outline or a household object, drawn with soft naive linework and a few warm flat colour blocks, slightly clumsy and handmade. Soft gouache, coloured-pencil texture and paper grain; a fresh, gentle lifestyle palette of warm cream, light beige, plant green, mist blue, dusty pink, soft coral and apricot; small in clean whitespace, with a short word or symbol in a small rounded, slightly irregular type like a lifestyle-magazine note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-318 or asks for a cosy lifestyle emblem, picture-book identity mark or warm hand-drawn life symbol from a photo."
 ---
 
 # XXD Panel 318

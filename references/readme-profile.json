@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 318｜Lived-In Mark: keeps the photo and distils the everyday mood of its subject into one small cosy picture-book identity mark — a clear, rounded, simple outline that may combine a person's pose, a plant, a pet's features, a building outline or a household object, drawn with soft naive linework and a few warm flat colour blocks, slightly clumsy and handmade. Soft gouache, coloured-pencil texture and paper grain; a fresh, gentle lifestyle palette of warm cream, light beige, plant green, mist blue, dusty pink, soft coral and apricot; small in clean whitespace, with a short word or symbol in a small rounded, slightly irregular type like a lifestyle-magazine note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-318 or asks for a cosy lifestyle emblem, picture-book identity mark or warm hand-drawn life symbol from a photo.",
+  "short_description": "生活印记：把照片里的人、宠物、植物或物件收成一个圆润手绘、清新温暖的生活小标志",
+  "zh-CN": {
+    "name": "生活印记",
+    "tagline": "保留原照片，把一段生活的气质收成一个温暖的绘本风小标志。",
+    "look": "照片保持原样，设计部分把这张照片的生活气质收成一个像品牌图章的小标志：轮廓清楚、圆润、结构简单，可以把人的姿态、一株植物、宠物的特征、房子的轮廓或一件家常物件组合在一起。线条柔软、带手绘误差，色块平而轻，有一点水粉覆盖感、彩铅颗粒和纸纹。颜色清新温暖：奶油白、浅米、植物绿、雾蓝、灰粉、柔珊瑚、浅杏。标志很小，放在干净的空白里；旁边一个短词或小符号，用圆润、略不规则的小字。",
+    "traits": ["生活气质", "绘本标识", "圆润手绘", "水粉铅笔", "小尺度留白"],
+    "good": [
+      "人和宠物、植物或家的组合：抱着猫的人、阳台浇花、门口趴着的狗",
+      "轻松日常的生活照：周末野餐、骑车买菜、厨房里做饭",
+      "想做成生活方式品牌、花店、咖啡馆或家庭标志的照片"
+    ],
+    "poor": [
+      "严肃、冷硬或戏剧化的场面：会议、工厂、暴风雨",
+      "需要完整叙事或环境的照片：旅行全景、整场活动",
+      "想要过度可爱的卡通、普通 Logo 模板、光滑矢量或 3D 的需求"
+    ]
+  },
+  "en": {
+    "name": "Lived-In Mark",
+    "tagline": "Keeps your photo and turns the feel of everyday life in it into one small, warm picture-book style mark.",
+    "look": "The photo stays as it is. The design gathers the everyday mood of the photo into a small mark like a brand stamp: a clear, rounded, simple outline that can combine a person's pose, a plant, a pet's features, a house outline or a household object. Lines are soft with hand-drawn wobble, and the flat, light colour blocks carry a little gouache opacity, coloured-pencil grain and paper texture. Colours are fresh and warm: cream, light beige, plant green, mist blue, dusty pink, soft coral and apricot. The mark is small in clean whitespace, with a short word or little symbol beside it in a small, rounded, slightly irregular type.",
+    "traits": ["Everyday mood", "Picture-book mark", "Rounded hand drawing", "Gouache and pencil", "Small scale, wide space"],
+    "good": [
+      "People together with pets, plants or home: someone holding a cat, watering plants on a balcony, a dog lying at the door",
+      "Relaxed everyday photos: a weekend picnic, cycling to the market, cooking in the kitchen",
+      "Photos you want as a mark for a lifestyle brand, a florist, a café or a family"
+    ],
+    "poor": [
+      "Serious, hard or dramatic scenes: meetings, factories, storms",
+      "Photos that need a full story or their setting: travel panoramas, a whole event",
+      "Wanting over-cute cartoons, a generic logo template, glossy vector or 3D"
+    ]
+  },
+  "ja": {
+    "name": "暮らしの印",
+    "tagline": "写真はそのままに、そこに写る暮らしの空気を、温かな絵本風の小さなマークにします。",
+    "look": "写真はそのまま残し、デザイン側は写真の暮らしの空気をブランドの判子のような小さなマークにまとめます。輪郭ははっきりと丸く、構造はシンプルで、人の姿勢、草花、ペットの特徴、家の輪郭、身近な道具などを組み合わせることもあります。線は柔らかく手描きのぶれがあり、平らで軽い色面にはガッシュの不透明感、色鉛筆の粒子、紙の質感が少し残ります。色はさわやかで温かく、クリーム、淡いベージュ、植物の緑、霧のような青、くすんだピンク、柔らかなコーラル、アプリコットです。マークは小さく、すっきりした余白に置かれ、横に丸みのある少し不揃いな小さな文字で短い語や記号を添えます。",
+    "traits": ["暮らしの空気", "絵本のマーク", "丸い手描き", "ガッシュと色鉛筆", "小さく、広い余白"],
+    "good": [
+      "人とペット、植物、家の組み合わせ：猫を抱く人、ベランダの水やり、玄関で寝そべる犬",
+      "くつろいだ日常写真：週末のピクニック、自転車で買い物、台所での料理",
+      "ライフスタイルブランド、花屋、カフェ、家族のマークにしたい写真"
+    ],
+    "poor": [
+      "硬い、冷たい、ドラマチックな場面：会議、工場、嵐",
+      "物語全体や環境が必要な写真：旅のパノラマ、イベントの全体",
+      "かわいすぎるキャラクター、ありきたりなロゴのひな形、なめらかなベクター、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "생활의 흔적",
+    "tagline": "원래 사진은 그대로 두고, 사진 속 일상의 분위기를 따뜻한 그림책풍 작은 마크로 담습니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 사진 속 생활의 분위기를 브랜드 도장 같은 작은 마크로 모읍니다. 윤곽은 분명하고 둥글며 구조가 단순하고, 사람의 자세, 식물, 반려동물의 특징, 집의 윤곽, 생활 소품을 함께 엮기도 합니다. 선은 부드럽고 손그림의 흔들림이 있으며, 평평하고 가벼운 색면에는 과슈의 불투명함, 색연필 입자, 종이 결이 조금 남습니다. 색은 산뜻하고 따뜻하게 크림, 연베이지, 식물 초록, 안개 낀 파랑, 더스티 핑크, 부드러운 코랄, 살구색을 씁니다. 마크는 작게 깔끔한 여백에 놓이고, 옆에 둥글고 살짝 고르지 않은 작은 글씨로 짧은 단어나 기호를 붙입니다.",
+    "traits": ["생활의 분위기", "그림책 마크", "둥근 손그림", "과슈와 색연필", "작은 크기, 넓은 여백"],
+    "good": [
+      "사람과 반려동물, 식물, 집이 함께 있는 사진: 고양이를 안은 사람, 베란다에서 물 주기, 현관에 엎드린 강아지",
+      "여유로운 일상 사진: 주말 피크닉, 자전거 타고 장보기, 부엌에서 요리하기",
+      "라이프스타일 브랜드, 꽃집, 카페, 가족의 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "딱딱하거나 차갑거나 극적인 장면: 회의, 공장, 폭풍",
+      "이야기 전체나 환경이 필요한 사진: 여행 파노라마, 행사 전체",
+      "지나치게 귀여운 캐릭터, 흔한 로고 템플릿, 매끈한 벡터, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر الحياة اليومية",
+    "tagline": "يحتفظ بصورتك ويحوّل روح الحياة اليومية فيها إلى علامة صغيرة دافئة بأسلوب الكتب المصوّرة.",
+    "look": "تبقى الصورة كما هي، ويجمع التصميم روح الحياة اليومية في الصورة في علامة صغيرة تشبه ختم علامة تجارية: خط خارجي واضح مستدير وبنية بسيطة، قد تجمع وضعية شخص ونبتة وملامح حيوان أليف وخطوط بيت أو غرضاً منزلياً. الخطوط ناعمة فيها ارتعاش اليد، والمساحات اللونية مسطحة خفيفة فيها شيء من كثافة الغواش وحبيبات القلم الملوّن وملمس الورق. الألوان منعشة دافئة: كريمي وبيج فاتح وأخضر نباتي وأزرق ضبابي ووردي مغبرّ ومرجاني ناعم ومشمشي. العلامة صغيرة في فراغ نظيف، وبجانبها كلمة قصيرة أو رمز صغير بخط صغير مستدير غير منتظم قليلاً.",
+    "traits": ["روح الحياة اليومية", "علامة كتاب مصوّر", "رسم يدوي مستدير", "غواش وقلم ملوّن", "حجم صغير وفراغ واسع"],
+    "good": [
+      "أشخاص مع حيوانات أليفة أو نباتات أو البيت: شخص يحمل قطة، سقي النباتات في الشرفة، كلب مستلقٍ عند الباب",
+      "صور يومية مسترخية: نزهة في عطلة الأسبوع، الذهاب إلى السوق بالدراجة، الطبخ في المطبخ",
+      "صور تريدها علامةً لعلامة أسلوب حياة أو محل زهور أو مقهى أو عائلة"
+    ],
+    "poor": [
+      "مشاهد جادة أو صلبة أو درامية: الاجتماعات، المصانع، العواصف",
+      "صور تحتاج إلى قصة كاملة أو إلى محيطها: مشاهد الرحلات البانورامية، فعالية كاملة",
+      "الرغبة في كرتون مفرط اللطافة أو قالب شعار عادي أو رسم متجهي لامع أو مجسّمات"
+    ]
+  }
+}
